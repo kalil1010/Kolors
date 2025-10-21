@@ -17,7 +17,7 @@ xformers==0.0.16
 safetensors>=0.4.1
 diffusers==0.14.0
 sentencepiece==0.1.99
-gradio>=4.37.2
+gradio==3.41.2
 opencv-python
 einops
 timm
